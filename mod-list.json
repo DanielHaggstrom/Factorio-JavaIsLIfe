@@ -94,6 +94,11 @@
     },
     
     {
+      "name": "Better_Angels_Smelting",
+      "enabled": true
+    },
+    
+    {
       "name": "Better_Bobs_Solar",
       "enabled": true
     },
@@ -364,6 +369,11 @@
     },
     
     {
+      "name": "LandMover",
+      "enabled": true
+    },
+    
+    {
       "name": "math7-library",
       "enabled": true
     },
@@ -395,11 +405,6 @@
     
     {
       "name": "more mining-productivity",
-      "enabled": true
-    },
-    
-    {
-      "name": "Mud_WaterWell",
       "enabled": true
     },
     
@@ -521,11 +526,6 @@
     {
       "name": "WarehouseAddons",
       "enabled": false
-    },
-    
-    {
-      "name": "WaterWell",
-      "enabled": true
     },
     
     {
