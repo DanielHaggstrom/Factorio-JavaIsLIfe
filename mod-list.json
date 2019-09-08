@@ -10,11 +10,26 @@
     
     {
       "name": "aai-industry",
+      "enabled": true
+    },
+    
+    {
+      "name": "AdvancedSubstation",
+      "enabled": true
+    },
+    
+    {
+      "name": "Advanced_Modules",
       "enabled": false
     },
     
     {
       "name": "AllNightVision",
+      "enabled": true
+    },
+    
+    {
+      "name": "ammo-loader",
       "enabled": true
     },
     
@@ -71,6 +86,11 @@
     {
       "name": "AngelsUsedCoolant",
       "enabled": true
+    },
+    
+    {
+      "name": "aswil",
+      "enabled": false
     },
     
     {
@@ -244,6 +264,11 @@
     },
     
     {
+      "name": "Car_MK2",
+      "enabled": true
+    },
+    
+    {
       "name": "Chunky-Poles",
       "enabled": true
     },
@@ -270,11 +295,6 @@
     
     {
       "name": "Clowns-Processing",
-      "enabled": true
-    },
-    
-    {
-      "name": "Clowns-Science",
       "enabled": true
     },
     
@@ -309,13 +329,8 @@
     },
     
     {
-      "name": "dirtybarrels",
-      "enabled": true
-    },
-    
-    {
-      "name": "DragonIndustries",
-      "enabled": true
+      "name": "endless_resources",
+      "enabled": false
     },
     
     {
@@ -359,8 +374,28 @@
     },
     
     {
+      "name": "IndustrialRevolution",
+      "enabled": false
+    },
+    
+    {
+      "name": "inland_pumps",
+      "enabled": false
+    },
+    
+    {
       "name": "IronMan_WarMachine",
       "enabled": true
+    },
+    
+    {
+      "name": "Krastorio",
+      "enabled": false
+    },
+    
+    {
+      "name": "Krastorio-graphics",
+      "enabled": false
     },
     
     {
@@ -419,17 +454,17 @@
     },
     
     {
+      "name": "OpteraLib",
+      "enabled": true
+    },
+    
+    {
       "name": "PCPRedux",
       "enabled": true
     },
     
     {
       "name": "pipelayer",
-      "enabled": true
-    },
-    
-    {
-      "name": "radar-tech",
       "enabled": true
     },
     
@@ -474,11 +509,6 @@
     },
     
     {
-      "name": "ShinyBob_Techs_Update",
-      "enabled": true
-    },
-    
-    {
       "name": "ShinyIcons",
       "enabled": false
     },
@@ -505,11 +535,6 @@
     
     {
       "name": "stdlib",
-      "enabled": true
-    },
-    
-    {
-      "name": "Tiny_Equipment",
       "enabled": false
     },
     
